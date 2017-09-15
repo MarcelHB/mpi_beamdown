@@ -1,0 +1,8 @@
+*.o
+*.s
+*.so
+*.a
+*.mod
+*.ftg-backup
+bin/
+out/
